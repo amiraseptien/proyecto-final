@@ -25,7 +25,7 @@ body{
     margin-top: 60px;}
 
 .hero-content {
-    background: url("img/fondo.jpeg")no-repeat center center/cover;
+    background: url("/img/fondo.jpeg")no-repeat center center/cover;
     height: 100vh;
     color: rgb(20, 22, 114);
     display: flex;
